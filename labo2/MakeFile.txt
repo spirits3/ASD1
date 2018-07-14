@@ -1,0 +1,1 @@
+g++ -std=c++11 -Wall -Wconversion -pedantic main.cpp puzzle.h puzzle.cpp c.cpp c.h l.cpp l.h magic_cube.cpp magic_cube.h piece.cpp piece.h piece_impl.h s.cpp s.h shape.cpp shape.h t.cpp t.h
